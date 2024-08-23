@@ -1,2 +1,2 @@
-# Capstone_Project
-Capstone project done in Great Learning.
+# HOSPITAL STAY DURATION
+CLASSIFICATION PROJECT done in Great Learning.
